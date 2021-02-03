@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Solanny
 
-🏢 I'm currently study in the politecnic Manuel Acevedo Serrano
+🏢 I'm currently study in the politecnic Manuel Acevedo Serrano 
+ 
+⚙️ I use daily: .php 
 
-⚙️ I use daily: .php, .js
-
-🌱 Learning  of the github, git basch
+🌱 Learning  of the github, git basch 
 
 📫 Reach me: batistasolanny026@gmail.com
 
